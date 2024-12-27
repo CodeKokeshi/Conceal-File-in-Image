@@ -6,14 +6,14 @@ This application offers two powerful functionalities:
 1. **Concealing Files within an Image**  
    Embed a ZIP file into a PNG image, creating a single, concealed file that’s indistinguishable from an ordinary image.  
 2. **Decrypting Concealed Files**  
-   Extract and recover hidden ZIP files from a concealed image, restoring your data effortlessly.  
+   Extract and recover hidden ZIP files from a concealed image, restoring your data.  
 
 ---
 
 ## 🚀 Features  
 - **Concealment**: Hide your ZIP file inside a PNG image with just a few clicks.  
-- **Decryption**: Recover hidden ZIP files from an image seamlessly.  
-- **User-Friendly Interface**: Intuitive GUI for selecting files, directories, and executing actions.  
+- **Decryption**: Recover hidden ZIP files from an image.  
+- **User-Friendly Interface**: Basic GUI for selecting files, directories, and executing actions.  
 - **Error Handling**: Clear and informative messages for every step of the process.  
 
 ---
