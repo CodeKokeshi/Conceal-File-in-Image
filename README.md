@@ -2,46 +2,48 @@
 
 ### Hide and Retrieve Files
 
-This application offers two powerful functionalities:  
-1. **Concealing Files within an Image**  
-   Embed a ZIP file into a PNG image, creating a single, concealed file that’s indistinguishable from an ordinary image.  
-2. **Decrypting Concealed Files**  
-   Extract and recover hidden ZIP files from a concealed image, restoring your data.  
+This app has two main functions:
+
+1. **🔒 Hide Files in an Image**: Put a ZIP file inside a PNG image to create a single hidden file that looks like a normal image.
+2. **🔓 Get Files Out of an Image**: Extract hidden ZIP files from a PNG image to get your original files back.
 
 ---
 
-## 🚀 Features  
-- **Concealment**: Hide your ZIP file inside a PNG image with just a few clicks.  
-- **Decryption**: Recover hidden ZIP files from an image.  
-- **User-Friendly Interface**: Basic GUI for selecting files, directories, and executing actions.  
-- **Error Handling**: Clear and informative messages for every step of the process.  
+## 🚀 Features
+
+- **🖼️ Hide Files**: Combine a ZIP file and a PNG image easily.
+- **📂 Extract Files**: Get ZIP files back from an image.
+- **✨ Simple Interface**: Easy to use with buttons to select files and folders.
+- **✅ Clear Feedback**: Messages show what happened during the process.
 
 ---
 
-## 🛠 How to Use  
+## 🛠️ How to Use
 
-### 🔒 Concealing Files  
-1. Select your ZIP file by clicking **Browse**.  
-2. Choose a PNG image to embed your ZIP file.  
-3. Specify an output directory for the concealed image.  
-4. Click **Conceal Files** to create your embedded image.  
-5. Receive a success or error message upon completion.  
+### 🔒 Hide Files
 
-### 🔓 Decrypting Files  
-1. Select the concealed image file by clicking **Browse**.  
-2. Choose an output directory for the extracted ZIP file.  
-3. Click **Decrypt Files** to extract the hidden ZIP file.  
-4. Receive a success or error message upon completion.  
+1. Click **Browse** to pick your ZIP file.
+2. Select a PNG image to hide the ZIP file inside.
+3. Pick a folder where the hidden image will be saved.
+4. Click **Conceal Files** to start.
+5. A message will tell you if it worked or if there was a problem.
 
----
+### 🔓 Get Files Out
 
-## ⚠️ Notes  
-- Concealment works exclusively with PNG images.  
-- Concealed files must be ZIP archives for successful decryption.  
-- Handle the concealment and decryption process with care to avoid data loss.  
+1. Click **Browse** to pick the image with the hidden file.
+2. Pick a folder where the ZIP file will be saved.
+3. Click **Decrypt Files** to start.
+4. A message will tell you if it worked or if there was a problem.
 
 ---
 
-**Crafted by CodeKokeshi – August 15, 2023**  
+## ⚠️ Important Notes
+
+- Only PNG images can be used for hiding files.
+- Only ZIP files can be hidden and extracted.
+- Be careful to avoid losing your data.
 
 ---
+
+**Made by CodeKokeshi – August 15, 2023**
+
